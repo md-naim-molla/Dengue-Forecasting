@@ -1,0 +1,6 @@
+variable,optimal_lag,max_correlation_r,lag_0d,lag_7d,lag_14d,lag_21d,lag_28d,lag_35d,lag_42d
+Mean Temperature,lag_42d,0.378,0.098,0.167,0.227,0.274,0.312,0.346,0.378
+Diurnal Temp Range (DTR),lag_42d,-0.606,-0.279,-0.35,-0.409,-0.469,-0.528,-0.575,-0.606
+Relative Humidity,lag_42d,0.544,0.228,0.301,0.366,0.43,0.489,0.526,0.544
+14-Day Cumulative Precip,lag_42d,0.634,0.215,0.3,0.39,0.481,0.564,0.611,0.634
+Breeding Suitability Index,lag_42d,0.63,0.209,0.293,0.383,0.472,0.555,0.605,0.63

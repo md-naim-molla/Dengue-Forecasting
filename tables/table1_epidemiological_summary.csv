@@ -1,0 +1,4 @@
+year,observation_days,date_range,total_admitted,total_deaths,case_fatality_rate_pct,peak_daily_admitted,peak_admitted_date,peak_daily_deaths,peak_death_date,days_admitted_ge_300,mean_temp_c,total_precip_mm,mean_humidity_pct
+2024,366,2024-01-01 to 2024-12-31,101211,575,0.568,1389,2024-11-17,11,2024-11-02,106,25.8,1895.1,75.8
+2025,365,2025-01-01 to 2025-12-31,102855,413,0.402,1195,2025-11-09,12,2025-09-21,150,26.6,1563.5,72.2
+2026,244,2026-01-01 to 2026-09-01,37170,102,0.274,1324,2026-09-01,5,2026-06-29,45,26.6,1264.9,72.7
